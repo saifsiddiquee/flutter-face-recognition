@@ -21,9 +21,6 @@ TensorFlow Lite plugin provides a dart API for accessing TensorFlow Lite interpr
 
 https://pub.dev/packages/tflite_flutter/install
 
-## Support
-Currently, the project has only support for Android  devices, if you're interested in contribute to provide iOS support, please let me know emailing me to marcoscarlomagno1@gmail.com
-
 ## Setup
 
 1- Clone the project:
